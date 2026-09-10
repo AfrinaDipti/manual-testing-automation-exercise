@@ -1,0 +1,1 @@
+# manual-testing-automation-exercise
